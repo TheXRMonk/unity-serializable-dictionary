@@ -9,10 +9,6 @@ This project provides a generic dictionary class and its custom property drawer 
 
 ![General screenshot](docs/SerializableDictionary_screenshot1.png)
 
-## How to install
-
-Install with the Unity Package Manager: https://github.com/Ra-Coding/unity-serializable-dictionary.git#upm
-
 ## Features
 
 - It inherits from `Dictionary<TKey, TValue>`
